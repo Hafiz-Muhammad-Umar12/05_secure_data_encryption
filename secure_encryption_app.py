@@ -2,7 +2,7 @@ import streamlit as st
 from cryptography.fernet import Fernet
 
 # Title
-st.title("🔐 Secure Data Encryption System")
+st.title("🔐 Secure data Encryption System")
 st.write("Encrypt and Decrypt your messages safely using Fernet (AES 128 CBC)")
 
 # Generate or use existing key
